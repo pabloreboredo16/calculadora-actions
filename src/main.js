@@ -4,8 +4,8 @@ import './style.css';
 document.querySelector('#app').innerHTML = `
   <h1>Calculadora con Vite</h1>
 
-  <input id="a" type="number" value="8">
-  <input id="b" type="number" value="5">
+  <input id="a" type="number" value="">
+  <input id="b" type="number" value="">
 
   <button id="sumar">Sumar</button>
 
